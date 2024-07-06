@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|c:\\users\\francis\\source\\repos\\stage2\\controller\\organisationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|solutionrelative:controller\\organisationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|c:\\users\\francis\\source\\repos\\stage2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|c:\\users\\francis\\source\\repos\\stage2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|c:\\users\\francis\\source\\repos\\stage2\\data\\dtos\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|solutionrelative:data\\dtos\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|c:\\users\\francis\\source\\repos\\stage2\\data\\dtos\\addusertoorganisationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|solutionrelative:data\\dtos\\addusertoorganisationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|c:\\users\\francis\\source\\repos\\stage2\\data\\dtos\\organisationcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|solutionrelative:data\\dtos\\organisationcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|c:\\users\\francis\\source\\repos\\stage2\\data\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|solutionrelative:data\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|c:\\users\\francis\\source\\repos\\stage2\\tests\\auth.spec.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|solutionrelative:tests\\auth.spec.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|c:\\users\\francis\\source\\repos\\stage2\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|solutionrelative:controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|c:\\users\\francis\\source\\repos\\stage2\\models\\organisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|solutionrelative:models\\organisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|c:\\users\\francis\\source\\repos\\stage2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|c:\\users\\francis\\source\\repos\\stage2\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|c:\\users\\francis\\source\\repos\\stage2\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|solutionrelative:controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|c:\\users\\francis\\source\\repos\\stage2\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|c:\\users\\francis\\source\\repos\\stage2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Migrations\\20240705224611_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240705224611_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|c:\\users\\francis\\source\\repos\\stage2\\services\\organisationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|solutionrelative:services\\organisationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|c:\\users\\francis\\source\\repos\\stage2\\migrations\\20240706175142_freens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED813A3-4819-481C-BF6B-7DEF93F8BFD1}|Stage2.csproj|solutionrelative:migrations\\20240706175142_freens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddUserToOrganisationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Data\\DTOs\\AddUserToOrganisationDTO.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\AddUserToOrganisationDTO.cs",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Data\\DTOs\\AddUserToOrganisationDTO.cs",
+              "RelativeToolTip": "Data\\DTOs\\AddUserToOrganisationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:14:21.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Services\\JwtService.cs",
+              "RelativeToolTip": "Services\\JwtService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:48:51.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrganisationController.cs",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Controller\\OrganisationController.cs",
+              "RelativeDocumentMoniker": "Controller\\OrganisationController.cs",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Controller\\OrganisationController.cs",
+              "RelativeToolTip": "Controller\\OrganisationController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:24:09.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T22:12:53.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRegistrationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Data\\DTOs\\UserRegistrationDTO.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\UserRegistrationDTO.cs",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Data\\DTOs\\UserRegistrationDTO.cs",
+              "RelativeToolTip": "Data\\DTOs\\UserRegistrationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:10:26.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:56:21.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrganisationCreationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Data\\DTOs\\OrganisationCreationDTO.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\OrganisationCreationDTO.cs",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Data\\DTOs\\OrganisationCreationDTO.cs",
+              "RelativeToolTip": "Data\\DTOs\\OrganisationCreationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:26:18.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Data\\DTOs\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Data\\DTOs\\UserLoginDTO.cs",
+              "RelativeToolTip": "Data\\DTOs\\UserLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:12:14.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:40:12.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "auth.spec.cs",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\tests\\auth.spec.cs",
+              "RelativeDocumentMoniker": "tests\\auth.spec.cs",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\tests\\auth.spec.cs",
+              "RelativeToolTip": "tests\\auth.spec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T19:51:58.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controller\\AuthController.cs",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Controller\\AuthController.cs",
+              "RelativeToolTip": "Controller\\AuthController.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAQwG8AAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:16:56.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Organisation.cs",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Models\\Organisation.cs",
+              "RelativeDocumentMoniker": "Models\\Organisation.cs",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Models\\Organisation.cs",
+              "RelativeToolTip": "Models\\Organisation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:40:48.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240706175142_Freens.cs",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Migrations\\20240706175142_Freens.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240706175142_Freens.cs",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Migrations\\20240706175142_Freens.cs",
+              "RelativeToolTip": "Migrations\\20240706175142_Freens.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:51:49.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Controller\\UserController.cs",
+              "RelativeToolTip": "Controller\\UserController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:21:05.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:36:29.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:09:23.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240705224611_First.cs",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Migrations\\20240705224611_First.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240705224611_First.cs",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Migrations\\20240705224611_First.cs",
+              "RelativeToolTip": "Migrations\\20240705224611_First.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T22:46:17.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrganisationService.cs",
+              "DocumentMoniker": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Services\\OrganisationService.cs",
+              "RelativeDocumentMoniker": "Services\\OrganisationService.cs",
+              "ToolTip": "C:\\Users\\FRANCIS\\source\\repos\\Stage2\\Services\\OrganisationService.cs",
+              "RelativeToolTip": "Services\\OrganisationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:52:18.64Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
